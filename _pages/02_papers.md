@@ -9,7 +9,7 @@ permalink: /papers/
 {% for post in items reversed %}
 	<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 	{% if post.authors != site.name %}
-	({{ post.authors | strip_newlines | remove: '{site.name} and' | remove: 'and {site.name}' | prepend: 'with ' }})
+	({{ post.authors | strip_newlines | remove: '{{site.name}} and' | remove: 'and {{site.name}}' | prepend: 'with ' }})
 	{% endif %}
 	</li>
 {% endfor %}
