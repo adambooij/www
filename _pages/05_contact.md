@@ -18,7 +18,7 @@ tel. +31 020 525 5024<br>
 
 <h3>Postal address:</h3>
 <p>
-Amsterdam School of Economics
+Amsterdam School of Economics<br>
 PO Box 15867<br>
 1001 NJ Amsterdam<br>
 The Netherlands<br>
