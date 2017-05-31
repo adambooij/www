@@ -27,7 +27,7 @@ layout: default
 	{% if page.authors != site.name %}
 		{% assign and_name = site.name | append : ' and' %}
 		{% assign name_and = 'and ' | append : site.name %}
-		({{ post.authors | strip_newlines | remove: and_name | remove: name_and | prepend: 'with ' }})
+		({{ page.authors | strip_newlines | remove: and_name | remove: name_and | prepend: 'with ' }})
 	{% endif %}
 </p>
 
