@@ -15,5 +15,5 @@ publisher: ""
 institution: ""
 pdf: "http://www.economists.nl/files/20161027-excellent_okt16.pdf"
 date: 2017-03-05
-category: paper
+category: papers
 ---

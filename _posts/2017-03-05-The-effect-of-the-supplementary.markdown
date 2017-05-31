@@ -15,5 +15,5 @@ publisher: "CPB Netherlands Bureau for Economic Policy Analysis"
 institution: "CPB Netherlands Bureau for Economic Policy Analysis"
 pdf: "http://www.cpb.nl/sites/default/files/publicaties/download/dp187-effect-supplementary-grant-parental-contribution_0.pdf"
 date: 2017-03-05
-category: paper
+category: papers
 ---
