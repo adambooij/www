@@ -17,4 +17,4 @@ permalink: /about/
 <li><a href="http://www.uva.nl/en/profile/b/o/a.s.booij/a.s.booij.html">The University of Amsterdam</a></li>
 </ul>
 
-and a <a href="https://dl.dropboxusercontent.com/u/549733/cv.pdf">CV</a> in pdf format.</p>
+and a <a target="_blank" href="https://dl.dropboxusercontent.com/u/549733/cv.pdf">CV</a> in pdf format.</p>
