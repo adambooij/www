@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20100121-Booijetal.-TD10-ParametricProspectTheory.pdf"
+pdf: "https://dl.dropboxusercontent.com/u/549733/pubs/paramatricPPT.pdf"
 date: 2017-03-05
 category: pub
 ---

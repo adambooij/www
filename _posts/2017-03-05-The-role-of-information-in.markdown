@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20120204-booijLeuvenOosterbeek2012eer.pdf"
+pdf: "https://dl.dropboxusercontent.com/u/549733/pubs/loaninfo.pdf"
 date: 2017-03-05
 category: pub
 ---
