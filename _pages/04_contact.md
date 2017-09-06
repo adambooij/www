@@ -7,7 +7,7 @@ permalink: /contact/
 E-mail: [adam.booij@uva.nl](mailto:adam.booij@uva.nl).
 
 <p>
-<a href="http://www.uva.nl/">University of Amsterdam</a><br>
+<a href="http://www.uva.nl/" target="_blank">University of Amsterdam</a><br>
 School of Economics<br>
 Section Microeconomics, E6.24<br>
 Roetersstraat 11<br>
