@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p>Adam Booij is assistant-professor of economics at the School of Economics of the University of Amsterdam. Previously, he was researcher at an education policy institute related to the Dutch ministry of education. He holds a Ph.D. in economics from the University of Amsterdam, for which he spent some time at CREST, Paris.</p>
+<p>Adam Booij is assistant-professor of economics at the School of Economics of the University of Amsterdam. Previously, he was a researcher at an education policy institute related to the Dutch ministry of education. He holds a Ph.D. in economics from the University of Amsterdam, for which he spent some time at CREST, Paris.</p>
 
 <p>On this site you will find information about Adam's research.</p> 
 
