@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://dl.dropboxusercontent.com/u/549733/pubs/loaninfo.pdf"
+pdf: "https://www.dropbox.com/s/nxtth59hbaqnvq7/loaninfo.pdf"
 date: 2017-03-05
 category: pub
 ---
