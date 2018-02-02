@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://dl.dropboxusercontent.com/u/549733/pubs/paramatricPPT.pdf"
+pdf: "https://www.dropbox.com/s/8wvki1y2vbmuq21/paramatricPPT.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---
