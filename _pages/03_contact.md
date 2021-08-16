@@ -8,7 +8,6 @@ E-mail: [adam.booij@uva.nl](mailto:adam.booij@uva.nl).
 
 <p>
 Amsterdam School of Economics<br/>
-University of Amsterdam<br/>
 Roetersstraat 11, room E624<br/>
 1018 WB Amsterdam<br/>
 The Netherlands<br/>
