@@ -9,9 +9,7 @@ E-mail: [adam.booij@uva.nl](mailto:adam.booij@uva.nl).
 <p>
 Amsterdam School of Economics<br/>
 University of Amsterdam<br/>
-Section Microeconomics, E6.24<br>
-Roetersstraat 11<br/>
-Room 3.60, Building E<br/>
+Roetersstraat 11, room E624<br/>
 1018 WB Amsterdam<br/>
 The Netherlands<br/>
 tel. +31 020 525 5024<br>
